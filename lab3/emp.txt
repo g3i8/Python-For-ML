@@ -1,0 +1,7 @@
+id= 1, Name= ahmed ali, salary= 2000.0, dep= finance
+id= 2, Name= Ali ahmed, salary= 3000.0, dep= HR
+id= 3, Name= amr ahmed, salary= 4000.0, dep= ENG
+id= 4, Name= ali mahmoud, salary= 5000.0, dep= HR
+id= 5, Name= hossam ahmed, salary= 9000.0, dep= ENG
+id= 6, Name= muhammmed mamdouh, salary= 7000.0, dep= ENG
+id= 7, Name= mahmoud ahmed, salary= 4000.0, dep= finance
